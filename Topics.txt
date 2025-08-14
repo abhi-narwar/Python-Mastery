@@ -1,0 +1,9 @@
+1. Programming Language (Python)
+
+Python basics + OOPs + file handling + modules
+
+Exception handling, decorators, list/dict comprehension
+
+Practice on: HackerRank (Python), LeetCode easy-medium problems
+
+⏳ Time: 1–1.5 months
